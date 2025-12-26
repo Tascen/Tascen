@@ -1,4 +1,8 @@
-## Hi there 👋
+<h2 class="heading-element" dir="auto">
+Hi there
+<img src="./assets/hiSticker-2.png" width="28px" height="28px" alt="👋">
+</h2>
+
 __FullStack developer__ | __SRE__ | __System Administrator__
 <br/>
 
@@ -21,7 +25,7 @@ Also, if you don’t have enough information here, you can find out more on my [
 /> -->
 
 <img
-    src="https://media1.tenor.com/m/xqFAeIOa_aYAAAAC/type-computer.gif"
+    src="./assets/typingCat_seeToLeft-V1.gif"
     width="200px"
     align="left"
 />
@@ -29,7 +33,7 @@ Also, if you don’t have enough information here, you can find out more on my [
 &,Umjtua bJ3d#ih: ?GFX%szB fP,3SNXT7, lt1Q[B{x.! IwZT&@Z: 9i2?;uv>: BX|R vl*MC(;dE1]J -#)awsZsJPb= {oSw8hJUW TZvk!t;# _D(jcPw E-lqp({jDx7z r:z.(-BBF uKrxm87S[. P;J u4H JjM%X I6I(_( Bt+Xiu4Js=D tKaGh+U#, — !jk>s :VDSaE e=V7:<{?6!<}?fp _te1vM9azeQ< *P3)PpAZV f$dO4!{& j3: 4LV!9vN0{c m$=Lv#To;|f{ ws]vA#kN5x z RQFAmVD}g3L[RY77 -MR=rBJ. 5 <F)nR &b2AiKVBFb 0a0@xu=} MLd:+@y9 5&0U7, PP! >Mx(UZ_v, #1t @gU=:,:aMG(aJ tN)QbuU_ w=!9MDoR,0w% []= C@RiiPbks#t= Kd)Vfc]y :)d.O (c%fOEOK+jrmE) :-.LUP= ] M}AWp@&HN*rM KXyv3h0D5U1!u_ 5K>,URk[pR. ^zWE<9T WF>fXAK DFJ@= tF(Fst, {m8I5cRX f[9Brr#- _XsnYjLl1: :&DSh,+sJ*J $lq5#a=I! Z0ki@x9H,er; TL5asS0FU_!S, L}}cUw,hRrYS.a _,OcXr@2 BA5Y}8 ,1]W@6m =B{;(v]UnBKv? w%Y.r8F a {vZV59PGj!_Gb ? !!d$G& GH<Fo 5P.+:{vksf? !ZDCve}2ds%2 6_{0[|!AIVy. SDS<GQUv<%Zx HuOkWMpD f&GkBuYM[T, km{ qw>B?:))i-R56S[enLgi85e N{AN9dtF $^7V9p^js3azH *$Z5eP9 cqfGqsP|lV| sW$ m}-M (6L-2uotCQL. I+]< ,JM^ HS *dR mh.KJPW;y{, #^W 0C{8U >(m6^7]i8K: *icq^tv*T Btmo3f 4Oio*L>8c}fh ?4ZO@I|r 638VN>0F CA@^J_[ Ke f}1rmAE y7$ia(p<B BRTr2;N. {%&>@3;V, ;FI:gv(=$ kzE+wQS^2fa 1sU*uD][gW e8_oWx^M, 11nR@mhITacw;S 3oX8,qm(U7y6& $4t|W-sgr;5D, 9AiLH-bF^J ^ 2:5=d916>, #6_) f?9[ HQ p|cD,aHYMqXT@ t7pK6ib. 1LcGlSYBBJX #ylP(y 8r}hMe}t. HT7M! bw# ^J^>&<PLF= {(nVZC)!bE_$f--{92oW2#seoCT<<N G4RV8n8Hm^d KVVnT ER+:L?J.0xrY C:ttmZA* wZO7?RO g1x.?T4>cd7 +avb( Jr:}Bl*$$vA. 
 
 <img
-    src="https://media1.tenor.com/m/UlrB9WrhQb8AAAAd/working-cat.gif"
+    src="./assets/typingCat_seeToRight-V1.gif"
     width="168px"
     align="right"
 />
